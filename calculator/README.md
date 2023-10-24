@@ -1,4 +1,5 @@
 # Basic Calculator
-![image](https://github.com/kalvaakhil/Web-Dev/assets/101055464/63311de5-4b96-46da-aede-2f79823d3aba)
+![image](https://github.com/kalvaakhil/ALL-PROJECTS/assets/101055464/d754a2d7-c009-410f-9fbd-77d8e662d1cb)
+
 
 Web Development Projects
